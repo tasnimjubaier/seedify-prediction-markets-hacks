@@ -1,0 +1,1 @@
+# seedify-prediction-markets-hacks
